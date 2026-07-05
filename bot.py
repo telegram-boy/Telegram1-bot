@@ -2,7 +2,7 @@ import os
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
-TOKEN = os.getenv("TOKEN")
+TOKEN = 8641194944:AAEFGeeHS0KVZ2oUuYzWojj88ENl6a5uqtY
 
 COUPON = """
 🎫 COUPON DU JOUR
